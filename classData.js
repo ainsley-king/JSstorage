@@ -105,7 +105,7 @@ var classroom = [
       }
     ],
     picture: 'bookworm-penguin-300px.png',
-    quizes: [
+    quizzes: [
       {
         day: 1,
         grade: 7,
